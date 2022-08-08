@@ -313,10 +313,10 @@
         font-size: 0.75em;
     }
     .cont1 {
-        width: 400px;
+        width: 200px;
     }
     .container1 img {
-        width: 350px;
+        width: 200px;
     }
     .figure {
         flex-direction: column;
@@ -329,10 +329,10 @@
         align-items: center;
     }
     .container-items1 img {
-        width: 300px;
+        width: 200px;
     }
     .item1 {
-        width: 300px;
+        width: 200px;
         text-align: center;
      }
      .flowing-conversation {
@@ -342,10 +342,10 @@
          gap: 50px;
      }
      .flowing-conversation img {
-        width: 300px;
+        width: 200px;
     }
     .flow2 {
-        width: 350px;
+        width: 200px;
     }
     .users {
         flex-direction: column-reverse;
@@ -353,13 +353,13 @@
         text-align: center;
     }
     .users img {
-        width: 300px;
+        width: 200px;
     }
     .user1 {
-        width: 300px;
+        width: 200px;
     }
     .free {
-        width: 400px;
+        width: 200px;
     }
     .footer {
         flex-direction: column-reverse;
@@ -380,7 +380,7 @@
         gap: 100px;
     }
     .container1 img {
-        width: 400px;
+        width: 200px;
     }
     .container-items1 {
         flex-direction: column-reverse;
@@ -388,7 +388,7 @@
         align-items: center;
     }
     .container-items1 img {
-        width: 350px;
+        width: 200px;
     }
     .flowing-conversation {
         flex-direction: column;
@@ -396,7 +396,7 @@
         align-items: center;
     }
     .flowing-conversation img {
-        width: 300px;
+        width: 200px;
     }
     .users {
         flex-direction: column-reverse;
@@ -404,10 +404,10 @@
         text-align: center;
     }
     .users img {
-        width: 350px;
+        width: 200px;
     }
     .free {
-        width: 400px;
+        width: 200px;
     }
     .footer {
         flex-direction: column-reverse;
