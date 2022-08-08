@@ -109,7 +109,7 @@
     display: flex;
     justify-content: space-around;
     margin-top: 150px;
-    background-image: url(images/bg-section-bottom-desktop-2.svg);
+    background-image: url(./IMAGES/bg-section-bottom-desktop-2.svg);
     height: 500px;
 }  
 .item1 {
@@ -157,7 +157,7 @@
     display: flex;
     justify-content: space-around;
     margin-top: 150px;
-    background-image: url(images/bg-section-top-desktop-1.svg);
+    background-image: url(./IMAGES/bg-section-top-desktop-1.svg);
     padding: 30px 0px;
     height: 500px;
 }
@@ -288,7 +288,7 @@
     display: flex;
     justify-content: space-around;
     margin-top: 150px;
-    background-image: url(images/bg-footer-top-desktop.svg);
+    background-image: url(./IMAGES/bg-footer-top-desktop.svg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
