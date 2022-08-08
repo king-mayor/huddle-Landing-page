@@ -190,6 +190,9 @@
     text-transform: capitalize;
     box-shadow: 0px 2px 2px var(--very-dark-cyan);
 }
+.free-section input:hover {
+    cursor: pointer;
+}
 .footer-icon{
     width: 200px;
     height: 20px;
